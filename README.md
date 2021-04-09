@@ -1,1 +1,1 @@
-# ArcoLinux-config for spectrwm
+# ArcoLinux-config
